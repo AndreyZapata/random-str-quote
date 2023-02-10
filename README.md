@@ -17,7 +17,7 @@ npm install -g random-str-quote
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg](https://github.com/AndreyZapata/random-str-quote.git)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-quote](https://github.com/AndreyZapata/random-str-quote.git)
 
 # License
 
