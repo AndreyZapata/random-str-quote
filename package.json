@@ -1,0 +1,27 @@
+{
+  "name": "random-str-quote",
+  "version": "1.0.0",
+  "description": "Random String Quotes from books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyZapata/random-str-quote.git"
+  },
+  "keywords": [],
+  "author": "Andrey Zapata <andrey.zapata@grupoexcala.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreyZapata/random-str-quote/issues"
+  },
+  "homepage": "https://github.com/AndreyZapata/random-str-quote#readme",
+  "bin": {
+    "random-str-quote": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
